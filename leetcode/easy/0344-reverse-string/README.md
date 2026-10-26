@@ -36,9 +36,9 @@ Output: ["h","a","n","n","a","H"]
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42 MB  
-**Submitted:** 2026-10-26T15:42:23.375Z  
+**Runtime:** 1 ms (beats 30.74%)  
+**Memory:** 48.1 MB (beats 66.75%)  
+**Submitted:** 2026-10-26T15:42:28.627Z  
 
 ```java
 class Solution {
