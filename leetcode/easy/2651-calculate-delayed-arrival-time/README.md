@@ -41,8 +41,8 @@ Explanation: Arrival time of the train was 13:00 hours. It is delayed by 11 hour
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 11.33%)  
-**Memory:** 42.1 MB (beats 87.97%)  
-**Submitted:** 2026-10-27T10:23:37.722Z  
+**Memory:** 42 MB (beats 92.14%)  
+**Submitted:** 2026-10-27T10:24:01.584Z  
 
 ```java
 class Solution {
