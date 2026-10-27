@@ -49,8 +49,8 @@ Explanation: It can be proved that no such integer exist.
 
 **Language:** Java  
 **Runtime:** 3 ms (beats 19.83%)  
-**Memory:** 43.1 MB (beats 6.26%)  
-**Submitted:** 2026-10-27T15:43:55.069Z  
+**Memory:** 42.8 MB (beats 8.68%)  
+**Submitted:** 2026-10-27T15:44:03.570Z  
 
 ```java
 class Solution {
