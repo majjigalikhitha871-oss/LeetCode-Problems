@@ -41,7 +41,7 @@ Explanation: The altitudes are [0,-4,-7,-9,-10,-6,-3,-1]. The highest is 0.
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
 **Memory:** 42.6 MB (beats 91.96%)  
-**Submitted:** 2026-10-27T15:45:06.165Z  
+**Submitted:** 2026-10-27T15:45:21.622Z  
 
 ```java
 class Solution {
