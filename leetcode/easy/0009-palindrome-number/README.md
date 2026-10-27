@@ -48,9 +48,9 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 13 ms (beats 18.86%)  
-**Memory:** 45.1 MB (beats 98.50%)  
-**Submitted:** 2026-10-27T15:54:13.145Z  
+**Runtime:** 14 ms (beats 15.44%)  
+**Memory:** 45.5 MB (beats 87.26%)  
+**Submitted:** 2026-10-27T15:54:20.103Z  
 
 ```java
 class Solution {
