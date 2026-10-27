@@ -36,8 +36,8 @@ Explanation: The smallest multiple of both 6 and 2 is 6. Note that a number is a
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 41.4 MB (beats 97.99%)  
-**Submitted:** 2026-10-27T15:53:33.042Z  
+**Memory:** 41.6 MB (beats 94.01%)  
+**Submitted:** 2026-10-27T15:53:44.118Z  
 
 ```java
 class Solution {
