@@ -38,8 +38,8 @@ Explanation: The common factors of 25 and 30 are 1, 5.
 
 **Language:** Java  
 **Runtime:** 1 ms (beats 72.26%)  
-**Memory:** 41.6 MB (beats 92.17%)  
-**Submitted:** 2026-10-27T15:52:32.850Z  
+**Memory:** 41.9 MB (beats 75.74%)  
+**Submitted:** 2026-10-27T15:52:41.403Z  
 
 ```java
 class Solution {
