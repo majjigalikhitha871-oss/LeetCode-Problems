@@ -41,8 +41,8 @@ The character `'l'` at index 0 is the first character that does not occur at any
 
 **Language:** Java  
 **Runtime:** 39 ms (beats 6.61%)  
-**Memory:** 46.3 MB (beats 97.69%)  
-**Submitted:** 2026-10-27T15:07:24.020Z  
+**Memory:** 46.1 MB (beats 98.79%)  
+**Submitted:** 2026-10-27T15:05:44.377Z  
 
 ```java
 class Solution {
