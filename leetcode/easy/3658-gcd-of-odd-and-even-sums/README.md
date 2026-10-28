@@ -48,9 +48,9 @@ Hence, `GCD(sumOdd, sumEven) = GCD(25, 30) = 5`.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 586 ms (beats 5.01%)  
-**Memory:** 42 MB (beats 95.80%)  
-**Submitted:** 2026-10-27T15:51:38.762Z  
+**Runtime:** 605 ms (beats 5.01%)  
+**Memory:** 42.2 MB (beats 89.38%)  
+**Submitted:** 2026-10-27T15:51:51.508Z  
 
 ```java
 class Solution {
