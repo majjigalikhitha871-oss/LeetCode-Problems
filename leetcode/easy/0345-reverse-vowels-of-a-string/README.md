@@ -36,9 +36,9 @@ The vowels in `s` are `['I', 'e', 'e', 'A']`. On reversing the vowels, s becomes
 ## Solution
 
 **Language:** Java  
-**Runtime:** 3 ms (beats 63.09%)  
-**Memory:** 46.2 MB (beats 85.42%)  
-**Submitted:** 2026-10-29T12:01:13.988Z  
+**Runtime:** 2 ms (beats 98.88%)  
+**Memory:** 46.3 MB (beats 76.57%)  
+**Submitted:** 2026-10-29T11:59:29.976Z  
 
 ```java
 class Solution {
