@@ -46,9 +46,9 @@ Explanation: The numbers 1, 3, 9, 10, and 17 are all present on at least one of 
 ## Solution
 
 **Language:** Java  
-**Runtime:** 8 ms (beats 11.52%)  
-**Memory:** 81.9 MB (beats 91.66%)  
-**Submitted:** 2026-10-29T11:48:09.318Z  
+**Runtime:** 9 ms (beats 10.34%)  
+**Memory:** 82.1 MB (beats 80.61%)  
+**Submitted:** 2026-10-29T11:48:19.510Z  
 
 ```java
 class Solution {
